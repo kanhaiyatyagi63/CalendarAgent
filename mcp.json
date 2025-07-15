@@ -1,0 +1,13 @@
+{
+    "inputs": [],
+    "servers": {
+       "GoogleCalendarMcp": {
+           "command": "dotnet",
+           "args": [
+		        "run",
+			    "--project",
+               	"C:\\Users\\kanhaya.tyagi\\Desktop\\Projects\\Internal\\CalendarAgent\\CalendarAgent.Planner\\CalendarAgent.Planner.csproj"
+           ]
+       }
+    }
+}
